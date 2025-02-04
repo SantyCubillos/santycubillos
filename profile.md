@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm <a href="https://santyswebsite.epizy.com/">David Santiago Cubillos Sarmiento</a>👋</h1>
-<h4 align="center"><a href="https://github.com/SantyCubillos/santycubillos/blob/main/profile.md">Haga clic aquí para ver mi perfil en español</a></h4>
+<h4 align="center"><a href="https://github.com/SantyCubillos/santycubillos/blob/main/README.md">Haga clic aquí para ver mi perfil en español</a></h4>
 
 <h3>📱Contact me with a single click</h3>
 
