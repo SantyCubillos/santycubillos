@@ -1,17 +1,17 @@
-<h1 align="center">Hola, soy <a href="https://santyswebsite.epizy.com/">David Santiago Cubillos Sarmiento</a>👋</h1>
-<h4 align="center"><a href="https://github.com/SantyCubillos/santycubillos/blob/main/profile.md">Click here to view my profile in English</a></h4>
+<h1 align="center">Hello, I'm <a href="https://santyswebsite.epizy.com/">David Santiago Cubillos Sarmiento</a>👋</h1>
+<h4 align="center"><a href="https://github.com/SantyCubillos/santycubillos/blob/main/README.md">Haga clic aquí para ver mi perfil en español</a></h4>
 
-<h3>📱Contáctame con un solo clic</h3>
+<h3>📱Contact me with a single click</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santicubillos-8b68431a7/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=573134965153)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santy.cubillos92@gmail.com)
 [![Visita mi portafolio web](https://img.shields.io/badge/Portafolio%20Web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://santyswebsite.epizy.com)
 
-<h2>🧑🏻‍💻Sobre mi</h2>
-<p>Tecnólogo en Análisis y Desarrollo de Sistemas de Información con sólida experiencia en el desarrollo Full Stack de aplicaciones web. Dominio avanzado de lenguajes como HTML, CSS, JavaScript, PHP, Java y Python, combinados con conocimientos sólidos en bases de datos MySQL y SQL Server. Amplia experiencia en el diseño y desarrollo de sitios web en diversas plataformas, incluyendo WordPress y Wix, y en la optimización de procesos mediante la gestión eficiente de bases de datos. Habilidades complementarias en edición de imágenes y soporte técnico de computadores.</p>
+<h2>🧑🏻‍💻About Me</h2>
+<p>Technologist in Information Systems Analysis and Development with solid experience in Full Stack development of web applications. Advanced proficiency in languages such as HTML, CSS, JavaScript, PHP, Java and Python, combined with solid knowledge in MySQL and SQL Server databases. Extensive experience in designing and developing websites on various platforms, including WordPress and Wix, and optimizing processes through efficient database management. Complementary skills in image editing and computer technical support.</p>
 
-<h2>💻Tecnólogias</h2>
+<h2>💻 Skills</h2>
 
 <h3>FrontEnd</h3>
 <div>
